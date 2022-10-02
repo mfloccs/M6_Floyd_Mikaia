@@ -1,37 +1,62 @@
 body{
-	padding:
-	margin:
-	display: 
-	background:
-	font-size:
-	color:
-	border:	
+	text-align: left;
+	font-size: 12pt;
+	font-style: 
 }
 
 header{
 	
 }
 
+nav {
+	
+}
+
 footer{
+	position: fixed;
+	bottom: 0;
 	
 }
 
 h2{
+	text-align: center;
 	
 }
 
 h3{
+	text-align: center;
 	
 }
 
 .studio{
+	float: left;
+	width: 50%;
+	height: auto;
+	margin-left: 100px;
 	
 }
 
 .photographers{
+	float: right;
+	margin-right: 60px;
+	width: 20%;
+	height: 600px;
+	border: 3px solid #000;
+	text-align: center;
+}
+
+.alicetext{
+	
+}
+
+.zachtext{
 	
 }
 
 .webtitle{
-	
+	text-align: center;
+}
+
+.studioimg{
+	margin-left: 80px;
 }
